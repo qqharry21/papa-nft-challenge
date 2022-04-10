@@ -6,7 +6,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['links.papareact.com', 'cdn.sanity.io'],
+    domains: ['links.papareact.com', 'cdn.sanity.io', 'cdn.hackernoon.com'],
   },
   env: {
     SANITY_API_TOKEN:
